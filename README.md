@@ -1,1 +1,1 @@
-# DAICO-Smart-Contract
+# Smart-Contract
